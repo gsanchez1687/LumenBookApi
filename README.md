@@ -1,1 +1,1 @@
-![portada](https://raw.githubusercontent.com/gsanchez1687/LumenAuthorApi/main/public/img/2.png)
+![portada](https://raw.githubusercontent.com/gsanchez1687/LumenBookApi/main/public/img/2.png)
